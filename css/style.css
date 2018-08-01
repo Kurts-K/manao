@@ -1,0 +1,76 @@
+/*All*/
+
+* {
+	font-family: arial;
+	text-decoration: none;
+}
+
+.clear:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+/*index.php*/
+
+.start {
+text-align: center;
+font-size: 1.5em;
+}
+
+
+.start a {
+	text-decoration: none;
+	border: 2px solid white;
+	padding: 20px;
+}
+
+.start a:hover {
+	border: 2px solid red;
+}
+
+
+/*registration.php*/
+
+.reg_form, .auth_form {
+	width: 25%;
+	height: 35%;
+	margin: 0 auto;
+	border: 2px solid #99c50a;
+	border-radius: 12px;
+	padding: 2%;
+	text-align: center;
+	border: 2px solid black;
+}
+
+.form_float {
+	float: left;
+	display: inline;
+	text-align: center;
+}
+
+.field {
+	text-align: right;
+	clear: both;
+	line-height: 1.2em;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
